@@ -1,4 +1,4 @@
-LOADING... PLEASE WAIT
+Bula vinaka! (means "Hello" and "Good Life" in Native Fijian language. 🇫🇯)
 
 <!---
 solomonirailoa/solomonirailoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
