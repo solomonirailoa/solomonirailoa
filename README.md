@@ -6,15 +6,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 My name is Ratu Solomoni Railoa.
-I am currently an undergrad BSc student in the University of the South Pacific.
 
-I love Java programming, and posses some set of skills for C++.
+Graduate in: Bachelor of Sciences (Computing Science, and Mathematics) - University of the South Pacific, Fiji Islands.
 
+As a passionate programmer, I really enjoy writing codes whether it is for real-world problems, or just for fun.
 
-
+Contacts:
 I hope to update my website some time soon: https://sites.google.com/site/solomonirailoa/home
-
-At the meantime, you can check out my SoloLearn profile at: https://www.sololearn.com/profile/80387
-
-or send me an email me at: s11123197@student.usp.ac.fj
+Feel free to send me an email me at: s11123197@student.usp.ac.fj
+or alternatively at: solomonirailoa@gmail.com
 
