@@ -12,7 +12,6 @@ Graduate in Bachelor of Sciences (Computing Science, and Mathematics) - Universi
 As a passionate programmer, I really enjoy writing codes whether it is for solving real-world problems, or just for fun.<br />
 
 Contacts:<br />
-I hope to update my website some time soon: https://sites.google.com/site/solomonirailoa/home<br />
 Feel free to send me an email me at: solomonirailoa@gmail.com<br /><br />
 
 Thank you for visiting my GitHub!
