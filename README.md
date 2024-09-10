@@ -7,10 +7,10 @@ You can click the Preview link to take a look at your changes.
 
 My name is Solomoni Railoa.<br />
 
-I am a programmer with a huge passion in writing awesome codes, making cool apps, and creating user-friendly websites, all with a problem-solving state of mind. Let's connect for an engaging teamwork.<br />
+I am a Fijian programmer with a huge passion in writing awesome codes, making cool apps, and creating user-friendly websites.<br />
 
 Contacts:<br />
-Feel free to send me an email me at: solomonirailoa@gmail.com<br />
+Feel free to send me an email me at: info@solomonirailoa.com<br />
 Also check out my other links<br />
 
 <a href="https://leetcode.com/u/solomonirailoa/">LeetCode</a>
